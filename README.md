@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ghost5072
-- 👀 I’m interested in front-end development and Web3 devlopment...
+- 👋 GM, I’m Kekachi Ekeke.
+- 👀 I’m a frontend developer and a Web3 enthusiast...
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on anything new
 - 📫 How to reach me ekekekekachi.c@gmail.com
